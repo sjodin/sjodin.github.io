@@ -7,21 +7,21 @@ title: Marathon results
 Class Men
 Start no 4558
 Team Sollefteå
-Net time 4.22.10
-Gross time 4.27.32
+Net time 4:22:10
+Gross time 4:27:32
 
 ## Östersund Marathon 2007
 
 Place 69
-Net time 3.50.23
+Net time 3:50:23
 
 ## Stockholm Marathon 2008
 
 Class Men
 Start no 2569
 Team Sollefteå
-Net time 3.46.18
-Gross time 3.48.22
+Net time 3:46:18
+Gross time 3:48:22
 
 ## Östersund Marathon 2008
 
@@ -36,8 +36,8 @@ Time after winner 01:00:55
 Class Men
 Start no 4570
 Team Sollefteå
-Net time 4.06.22
-Gross time 4.07.36
+Net time 4:06:22
+Gross time 4:07:36
 
 ## Östersund Marathon 2009
 
@@ -49,8 +49,8 @@ Tid 4:02:39
 
 Start no 3757
 Team Ericsson IF
-Net time 3.45.01
-Gross time 3.48.53
+Net time 3:45:01
+Gross time 3:48:53
 
 ## Swiss Alpine Marathon 2012
 
@@ -62,15 +62,15 @@ Net time 05:32:15
 
 Start no 5422
 Team Ericsson IF
-Net time 3.57.47
-Gross time 4.00.34
+Net time 3:57:47
+Gross time 4:00:34
 
 ## Stockholm Marathon 2014
 
 Start no 3986
 Team Ericsson IF
-Net time 3.45.24
-Gross time 3.47.48
+Net time 3:45:24
+Gross time 3:47:48
 
 ## Berlin Marathon 2016
 
@@ -84,4 +84,4 @@ Net time 03:33:31
 
 ## Ottawa Marathon 2022
 
-Net time 03:28:26
+Net time 03:28:33
