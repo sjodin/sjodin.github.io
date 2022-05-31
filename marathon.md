@@ -10,7 +10,7 @@ Team Sollefteå
 Net time 4.22.10
 Gross time 4.27.32
 
-## Östersund marathon 2007
+## Östersund Marathon 2007
 
 Place 69
 Net time 3.50.23
@@ -23,7 +23,7 @@ Team Sollefteå
 Net time 3.46.18
 Gross time 3.48.22
 
-## Östersund marathon 2008
+## Östersund Marathon 2008
 
 Place 11
 Start no 79
@@ -39,7 +39,7 @@ Team Sollefteå
 Net time 4.06.22
 Gross time 4.07.36
 
-## Östersund marathon 2009
+## Östersund Marathon 2009
 
 Place 48
 Team Ericsson IK
@@ -52,7 +52,7 @@ Team Ericsson IF
 Net time 3.45.01
 Gross time 3.48.53
 
-## Swiss alpine marathon 2012
+## Swiss Alpine Marathon 2012
 
 Plac 384
 Start no 2320
@@ -72,8 +72,16 @@ Team Ericsson IF
 Net time 3.45.24
 Gross time 3.47.48
 
-## Berlin marathon 2016
+## Berlin Marathon 2016
 
 Net time 03:49:51
 Gross time 04:02:12
 Team Ericsson Stockholm IK
+
+## Toronto Marathon 2022
+
+Net time 03:33:31
+
+## Ottawa Marathon 2022
+
+Net time 03:28:26
