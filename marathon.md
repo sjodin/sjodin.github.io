@@ -85,3 +85,7 @@ Net time 03:33:31
 ## Ottawa Marathon 2022
 
 Net time 03:28:33
+
+## Toronto Marathon 2023
+
+Net time 03:07:50
