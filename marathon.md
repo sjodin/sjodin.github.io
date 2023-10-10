@@ -89,3 +89,7 @@ Net time 03:28:33
 ## Toronto Marathon 2023
 
 Net time 03:07:50
+
+## Fall Colours Marathon 2023
+
+Net time 02:59:34 2nd place overall, 1st in age group
