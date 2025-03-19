@@ -93,3 +93,15 @@ Net time 03:07:50
 ## Fall Colours Marathon 2023
 
 Net time 02:59:34 2nd place overall, 1st in age group
+
+## Ottawa Marathon 2024
+
+Net time 03:06:30
+
+## Army Run Half Marathon 2024
+
+Net time 01:25:58 30th place overall, 4th in age group
+
+## Fall Colours Marathon 2024
+
+Net time 03:14:10
